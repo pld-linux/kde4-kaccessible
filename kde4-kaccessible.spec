@@ -8,12 +8,12 @@
 Summary:	Accessibility services like focus tracking and a screenreader
 Summary(pl.UTF-8):	kaccessible
 Name:		kde4-kaccessible
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	LGPL v2
 Group:		X11/Libraries
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	43579c42720185f37f99a0cb591f3da6
+# Source0-md5:	a816ac4b463791afc5d7e63ff3c535b3
 URL:		http://www.kde.org/
 BuildRequires:	cmake >= 2.6.3
 BuildRequires:	kde4-kdelibs-devel >= %{_kdever}
